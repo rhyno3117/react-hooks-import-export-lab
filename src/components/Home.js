@@ -1,3 +1,5 @@
+//Import the username and city variables in the src/components/Home.js file
+
 import React from "react";
 import { username, city } from "../data/user";
 
